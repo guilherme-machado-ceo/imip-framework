@@ -9,8 +9,9 @@ authors:
     affiliation: "PCIH3 - Polymath Cyborg Intelligence Hub"
 repository-code: "https://github.com/guilherme-machado-ceo/imip-framework"
 license: CC-BY-NC-4.0
-version: 1.0.0
+version: 1.0.1
 date-released: "2026-04-26"
+doi: "10.5281/zenodo.19775021"
 keywords:
   - AGI
   - constitutional-ai
