@@ -1,41 +1,17 @@
 cff-version: 1.2.0
-title: >-
-  IMIP - Multiple Integrated Instantiation of Thought:
-  A Constitutional Architecture for General Artificial Intelligence
-message: >-
-  If you use this framework, please cite both the repository
-  and the working paper.
+message: "If you use this framework, please cite it as below."
+title: "IMIP Framework"
 type: software
 authors:
   - family-names: "Goncalves Machado"
     given-names: "Guilherme"
     orcid: "https://orcid.org/0009-0008-1083-0784"
-    affiliation: "PCIH3 - Polymath Cyborg Intelligence Hub - Hubstry Deep Tech"
+    affiliation: "PCIH3 - Polymath Cyborg Intelligence Hub"
 repository-code: "https://github.com/guilherme-machado-ceo/imip-framework"
-url: "https://hubstry.dev"
-license: "CC-BY-NC-4.0"
-version: "1.0.0"
-date-released: "2026-04-25"
-doi: "10.5281/zenodo.19772798" # doi will be assigned by Zenodo after release
+license: CC-BY-NC-4.0
+version: 1.0.0
+date-released: "2026-04-26"
 keywords:
-  - "multiple instantiation"
-  - "general artificial intelligence"
-  - "constitutional alignment"
-  - "heteronymy"
-  - "GuruDev"
-  - "IPII"
-  - "hexarelational algebra"
-  - "cognitive architecture"
-references:
-  - type: article
-    title: >-
-      Multiple Integrated Instantiation of Thought (IMIP):
-      A Constitutional Architecture for General Artificial Intelligence
-    authors:
-      - family-names: "Goncalves Machado"
-        given-names: "Guilherme"
-        orcid: "https://orcid.org/0009-0008-1083-0784"
-    doi: "10.5281/zenodo.19772798"
-    year: 2026
-    publisher:
-      name: "Zenodo"
+  - AGI
+  - constitutional-ai
+  - IMIP
