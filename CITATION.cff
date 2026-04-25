@@ -10,13 +10,13 @@ authors:
   - family-names: "Goncalves Machado"
     given-names: "Guilherme"
     orcid: "https://orcid.org/0009-0008-1083-0784"
-    affiliation: "PCIHᶟ — Polymath Cyborg Intelligence Hub | Hubstry Deep Tech"
+    affiliation: "PCIH3 - Polymath Cyborg Intelligence Hub - Hubstry Deep Tech"
 repository-code: "https://github.com/guilherme-machado-ceo/imip-framework"
 url: "https://hubstry.dev"
-license: "LicenseRef-PolyForm-NC-1.0"
+license: "CC-BY-NC-4.0"
 version: "1.0.0"
 date-released: "2026-04-25"
-doi: "10.5281/zenodo.19772798"
+doi: "10.5281/zenodo.19772798" # doi will be assigned by Zenodo after release
 keywords:
   - "multiple instantiation"
   - "general artificial intelligence"
